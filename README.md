@@ -1,5 +1,5 @@
 
-o<!DOCTYPE html> 
+
 <html lang="pl-PL">  
      <head> 
       <meta charset="utf-8"> 
